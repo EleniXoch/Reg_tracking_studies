@@ -27,6 +27,13 @@ NOTES:
 
 ![](https://codimd.web.cern.ch/uploads/upload_3ea8ad1534ec2964b76426bf5e5a06de.png)
 
+### Comparing throughput see https://docs.google.com/spreadsheets/d/1HEPA8pKfdcYvoQpY3U4FQ5dq0dgCLFIV80692f3uEZI/edit?usp=sharing
+
+
+<img width="904" height="214" alt="image" src="https://github.com/user-attachments/assets/55ad3650-1043-4d59-8689-66de1cfeb257" />
+
+
+
 ### Notes
 
 - scaling:
